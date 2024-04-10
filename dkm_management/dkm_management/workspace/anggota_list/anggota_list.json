@@ -1,0 +1,54 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"1HDwad7FSk\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Anggota List</span>\",\"col\":12}},{\"id\":\"6MQG3hHiVC\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Dashboard\",\"col\":3}},{\"id\":\"uhty8MagO7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Anggota List\",\"col\":3}},{\"id\":\"oXqT67m7IK\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Report\",\"col\":3}}]",
+ "creation": "2024-04-10 22:59:01.377939",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "users",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "Anggota List",
+ "links": [],
+ "modified": "2024-04-10 23:27:47.255957",
+ "modified_by": "Administrator",
+ "module": "Dkm Management",
+ "name": "Anggota List",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "DKM Management",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 24.0,
+ "shortcuts": [
+  {
+   "color": "Cyan",
+   "doc_view": "Dashboard",
+   "label": "Dashboard",
+   "link_to": "Anggota",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Blue",
+   "doc_view": "List",
+   "label": "Anggota List",
+   "link_to": "Anggota",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Red",
+   "doc_view": "Report Builder",
+   "label": "Report",
+   "link_to": "Anggota",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Anggota List"
+}

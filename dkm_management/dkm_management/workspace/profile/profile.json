@@ -1,0 +1,35 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"uyFXEfJek_\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Profile</span>\",\"col\":12}},{\"id\":\"NBxlCt8rG8\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Organisasi\",\"col\":12}}]",
+ "creation": "2024-04-10 22:55:33.261261",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "Profile",
+ "links": [],
+ "modified": "2024-04-10 23:27:37.410275",
+ "modified_by": "Administrator",
+ "module": "Dkm Management",
+ "name": "Profile",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "DKM Management",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "Organisasi",
+   "label": "Organisasi",
+   "quick_list_filter": "[[\"Organisasi\",\"name\",\"=\",\"Al Jabar\",false]]"
+  }
+ ],
+ "roles": [],
+ "sequence_id": 23.0,
+ "shortcuts": [],
+ "title": "Profile"
+}
